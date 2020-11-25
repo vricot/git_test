@@ -1,0 +1,1 @@
+This is Valerie's first git project!
